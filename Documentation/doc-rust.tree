@@ -2,7 +2,7 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="rust" name="Rust"
+<instance-profile id="doc-rust" name="Rust"
                   start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>

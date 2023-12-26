@@ -1,0 +1,9 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <primary-color>aqua</primary-color>
+        <header-logo>https://www.rust-lang.org/static/images/rust-logo-blk.svg</header-logo>
+        <product-web-url>https://www.rust-lang.org/</product-web-url>
+        <custom-favicons>https://www.rust-lang.org/static/images/rust-logo-blk.svg</custom-favicons>
+    </variables>
+</buildprofiles>
