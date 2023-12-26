@@ -6,16 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="37660cb9">
-        <description>Created after removal of "Reference" from Help Instance</description>
-        <accepts>Reference.html</accepts>
-    </rule>
-    <rule id="1558246f">
-        <description>Created after removal of "Overview" from Help Instance</description>
-        <accepts>Overview.html</accepts>
-    </rule>
-    <rule id="5f7060af">
-        <description>Created after removal of "Reference" from Help Instance</description>
-        <accepts>Reference.html</accepts>
-    </rule>
 </rules>

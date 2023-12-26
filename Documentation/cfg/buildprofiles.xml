@@ -1,9 +1,14 @@
-<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<buildprofiles>
     <variables>
-        <primary-color>aqua</primary-color>
+        <primary-color>metallic</primary-color>
         <header-logo>https://www.rust-lang.org/static/images/rust-logo-blk.svg</header-logo>
         <product-web-url>https://www.rust-lang.org/</product-web-url>
         <custom-favicons>https://www.rust-lang.org/static/images/rust-logo-blk.svg</custom-favicons>
     </variables>
+    <footer>
+        <copyright>Gishant Singh 2023</copyright>
+        <social type="blog" href=""></social>
+    </footer>
 </buildprofiles>
