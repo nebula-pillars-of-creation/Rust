@@ -15,7 +15,7 @@ In many programming languages, accessing or modifying memory that the program do
 behavior, security vulnerabilities, or program crashes (segmentation faults). Rust prevents this through its ownership
 system.
 
-``` rust
+``` Text
 fn main() {
     let v = vec![1, 2, 3];
 
@@ -33,7 +33,7 @@ Rust's ownership system also helps prevent data races at compile-time, which is 
 programming. A data race occurs when two threads access the same memory location concurrently, and at least one of the
 accesses is for a write condition.
 
-``` rust
+``` Text
 use std::thread;
 
 fn main() {
