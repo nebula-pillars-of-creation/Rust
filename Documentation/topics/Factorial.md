@@ -6,7 +6,7 @@ For this example, we're going to use factorial. The factorial of a non-negative 
 positive
 integers less than or equal to \( n \).
 
-### Equation
+### Algorithm
 
 It is denoted by \( n! \) and is generally defined as:
 

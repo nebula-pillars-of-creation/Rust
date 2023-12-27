@@ -1,6 +1,9 @@
 # Environment Setup
+<show-structure for="chapter" depth="3"/>
 
-## Installation
+## Installing Rust with rustup
+
+### Step-by-step installation guide
 
 <procedure title="Installing Rust with rustup">
     <step>
@@ -42,4 +45,6 @@
         <img src="terminal-rust-version.png" alt="Terminal: rustc --version"/>
     </step>
 </procedure>
+
+### Understanding version management with rustup
 
