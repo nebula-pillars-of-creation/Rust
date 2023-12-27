@@ -1,4 +1,5 @@
 # Getting Started
+<show-structure for="chapter" depth="3"/>
 
 ## Introduction to Rust
 
