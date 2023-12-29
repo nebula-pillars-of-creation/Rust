@@ -13,5 +13,7 @@
             <toc-element topic="Fibonacci-Sequence.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Environment-Setup.md"/>
+    <toc-element topic="Environment-Setup.md">
+        <toc-element topic="Rustc-Vs-Cargo.md"/>
+    </toc-element>
 </instance-profile>
