@@ -1,6 +1,8 @@
 # Rust Resource and Learning Repository
 
-[![Rust Github Page](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://nebula-pillars-of-creation.github.io/Rust/overview.html)
+![Build](https://github.com/nebula-pillars-of-creation/Rust/actions/workflows/deploy.yml/badge.svg)
+
+[Rust Documentation](https://nebula-pillars-of-creation.github.io/Rust/overview.html)
 
 **Description:**
 
