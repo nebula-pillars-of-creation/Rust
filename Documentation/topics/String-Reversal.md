@@ -39,10 +39,10 @@ flowchart TD
     <tab title="Rust">
         <tabs>
             <tab title="With Standard Libraries">
-                <code-block lang="c" src="string_reversal.rs" validate="false" include-lines="1-29"/>
+                <code-block lang="c" src="rust/string_reversal.rs" validate="false" include-lines="1-29"/>
             </tab>
             <tab title="Without Standard Libraries">
-                <code-block lang="c" src="string_reversal.rs" validate="false" include-lines="1-13,32-45"/>
+                <code-block lang="c" src="rust/string_reversal.rs" validate="false" include-lines="1-13,32-45"/>
             </tab>
       </tabs>
     </tab>
@@ -50,22 +50,22 @@ flowchart TD
         <tabs>
             <tab title="With Standard Libraries">
                 Header file
-                <code-block lang="c++" src="string_reversal.h" validate="false"/>
+                <code-block lang="c++" src="cpp/string_reversal.h" validate="false"/>
                 Cpp file
-                <code-block lang="c++" src="string_reversal.cpp" validate="false" include-lines="1-23"/>
+                <code-block lang="c++" src="cpp/string_reversal.cpp" validate="false" include-lines="1-23"/>
             </tab>
             <tab title="Without Standard Libraries">
-                <code-block lang="c++" src="string_reversal.cpp" validate="false" include-lines="26-49"/>
+                <code-block lang="c++" src="cpp/string_reversal.cpp" validate="false" include-lines="26-49"/>
             </tab>
       </tabs>
     </tab>
     <tab title="Python">
         <tabs>
             <tab title="With Standard Libraries">
-                <code-block lang="python" src="string_reversal.py" validate="false" include-lines="1-24"/>
+                <code-block lang="python" src="python/string_reversal.py" validate="false" include-lines="1-24"/>
             </tab>
             <tab title="Without Standard Libraries">
-                <code-block lang="python" src="string_reversal.py" validate="false" include-lines="28-45"/>
+                <code-block lang="python" src="python/string_reversal.py" validate="false" include-lines="28-45"/>
             </tab>
       </tabs>
     </tab>

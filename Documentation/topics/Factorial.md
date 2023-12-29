@@ -46,12 +46,12 @@ graph TD
 
 <tabs>
   <tab title="Rust">
-    <code-block lang="c" src="factorials.rs" validate="false" />
+    <code-block lang="c" src="rust/factorials.rs" validate="false" />
   </tab>
   <tab title="C++">
-    <code-block lang="c++" src="factorials.cpp" validate="false" />
+    <code-block lang="c++" src="cpp/factorials.cpp" validate="false" />
   </tab>
   <tab title="Python">
-    <code-block lang="python" src="factorials.py" validate="false" />
+    <code-block lang="python" src="python/factorials.py" validate="false" />
   </tab>
 </tabs>

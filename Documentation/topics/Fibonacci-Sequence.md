@@ -53,12 +53,12 @@ graph TD
 
 <tabs>
   <tab title="Rust">
-    <code-block lang="c" src="fibonacci_sequence.rs" validate="false" />
+    <code-block lang="c" src="rust/fibonacci_sequence.rs" validate="false" />
   </tab>
   <tab title="C++">
-    <code-block lang="c++" src="fibonacci_sequence.cpp" validate="false" />
+    <code-block lang="c++" src="cpp/fibonacci_sequence.cpp" validate="false" />
   </tab>
   <tab title="Python">
-    <code-block lang="python" src="fibonacci_sequence.py" validate="false" />
+    <code-block lang="python" src="python/fibonacci_sequence.py" validate="false" />
   </tab>
 </tabs>
