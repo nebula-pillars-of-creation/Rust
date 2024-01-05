@@ -40,5 +40,3 @@ cargo build
 | **Commands**               | `rustc file.rs` to compile.                    | `cargo build` to build, `cargo run` to run, etc.               |
 | **Tooling**                | Just a compiler.                               | Integrated with a vast tooling ecosystem for Rust development. |
 | **Community Adoption**     | Less commonly used for development.            | Widely adopted for Rust development.                           |
-
-

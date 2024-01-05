@@ -16,4 +16,75 @@
     <toc-element topic="Environment-Setup.md">
         <toc-element topic="Rustc-Vs-Cargo.md"/>
     </toc-element>
+    <toc-element topic="Syntax-And-Basics.md">
+        <toc-element topic="Hello-World.md"/>
+        <toc-element topic="Basic-Syntax.md"/>
+        <toc-element topic="Data-Types.md">
+            <toc-element topic="Data-Types-Memory-Consumption.md"/>
+            <toc-element topic="Overfow-Handling.md"/>
+        </toc-element>
+        <toc-element topic="Macros-Basic.md"/>
+        <toc-element topic="Immutability.md"/>
+    </toc-element>
+    <toc-element topic="Control-Structures.md">
+        <toc-element topic="Decision-Making.md"/>
+        <toc-element topic="Loops.md"/>
+        <toc-element topic="Error-Handling.md"/>
+        <toc-element topic="Result-And-Options-Types.md"/>
+    </toc-element>
+    <toc-element topic="Ownership-And-Borrowing.md">
+        <toc-element topic="Memory-Safety.md"/>
+        <toc-element topic="Borrowing-Rules.md"/>
+        <toc-element topic="Ownership-System.md"/>
+    </toc-element>
+    <toc-element topic="Data-Structures.md">
+        <toc-element topic="Common-Collections.md"/>
+        <toc-element topic="Slices-And-Strings.md"/>
+        <toc-element topic="Custom-Data-Types.md"/>
+    </toc-element>
+    <toc-element topic="Functions-And-Modules.md">
+        <toc-element topic="Functions.md"/>
+        <toc-element topic="Modules.md"/>
+        <toc-element topic="Traits.md"/>
+    </toc-element>
+    <toc-element topic="Concurrency-And-Parallelism.md">
+        <toc-element topic="Fearless-Concurrency.md"/>
+        <toc-element topic="Threads-And-Message-Passing.md"/>
+        <toc-element topic="Async-Await-And-Futures.md"/>
+    </toc-element>
+    <toc-element topic="Error-Handling-And-Debugging.md">
+        <toc-element topic="Panic-And-Unwrap.md"/>
+        <toc-element topic="Robust-Error-Handling.md"/>
+        <toc-element topic="Debugging-Tools.md">
+            <toc-element topic="Strategies.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Cargo-And-Crates.md">
+        <toc-element topic="Cargo.md"/>
+        <toc-element topic="Crates.md"/>
+        <toc-element topic="Publish-Crates.md"/>
+    </toc-element>
+    <toc-element topic="Macro-System.md">
+        <toc-element topic="Macros.md">
+            <toc-element topic="Declarative-Macros.md">
+            </toc-element>
+            <toc-element topic="Procedural-Macros.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Advanced-Topics.md">
+        <toc-element topic="Performance-Optimization.md"/>
+        <toc-element topic="Advanced-Ownership-And-Lifetimes.md"/>
+        <toc-element topic="Zero-Cost-Abstraction.md"/>
+        <toc-element topic="Unsafe-Rust.md"/>
+        <toc-element topic="Embedded-And-Systems-Programming.md"/>
+        <toc-element topic="Metaprogramming-with-Macros.md"/>
+        <toc-element topic="Concurrency-Design-Pattern.md"/>
+        <toc-element topic="Networking-And-Protocols.md"/>
+    </toc-element>
+    <toc-element topic="Projects-And-Exercises.md">
+        <toc-element topic="Projects.md"/>
+        <toc-element topic="Exercises.md"/>
+    </toc-element>
+    <toc-element topic="Rust-In-Real-World.md"/>
+    <toc-element topic="Further-Learning.md"/>
 </instance-profile>
