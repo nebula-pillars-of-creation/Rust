@@ -6,6 +6,7 @@
         <header-logo>https://www.rust-lang.org/static/images/rust-logo-blk.svg</header-logo>
         <product-web-url>https://www.rust-lang.org/</product-web-url>
         <custom-favicons>https://www.rust-lang.org/static/images/rust-logo-blk.svg</custom-favicons>
+        <noindex-content>false</noindex-content>
     </variables>
     <footer>
         <copyright>Gishant Singh 2023</copyright>
