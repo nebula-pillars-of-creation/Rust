@@ -99,7 +99,7 @@ macro_rules! log_message {
         // Using standard library functions to get the current time, file, and line number
         println!(
             "[{}][{}:{}] {}",
-            chrono::Local::now().format("%Y-%m-%d %H:%M:%S"), // Timestamp
+            chrono::Local::now().format("\%Y-\%m-\%d \%H:\%M:\%S"), // Timestamp
             file!(),  // Current file
             line!(),  // Line number
             format_args!($($arg)*)  // User-provided message
@@ -119,7 +119,7 @@ fn main() {
 > chrono is a crate for date and time handling in Rust. You can add it to your project by adding the following line to
 > your Cargo.toml file:
 >
-> ```toml
+> ```yaml
 > [dependencies]
 > chrono = "0.4.19"
 > ```

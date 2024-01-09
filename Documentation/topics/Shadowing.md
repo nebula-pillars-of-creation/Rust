@@ -27,7 +27,6 @@ fn main() {
 
     println!("The value of x is: {}", x); // 6
 }
-
 ```
 
 In this example, the first x is shadowed by the second x, which takes the original value and adds 1 to it. Inside the
@@ -78,7 +77,7 @@ fn main() -> Result<(), ParseError> {
     let user_input = "2023-12-25"; // User input as a string (e.g., a date)
 
     // Shadowing: Convert the string to a NaiveDate object
-    let user_input = NaiveDate::parse_from_str(user_input, "%Y-%m-%d")?;
+    let user_input = NaiveDate::parse_from_str(user_input, "\%Y-\%m-\%d")?;
 
     // Perform some operations on the date
     let next_day = user_input.succ(); // Using a method to get the next day
@@ -86,8 +85,8 @@ fn main() -> Result<(), ParseError> {
     println!("The day after {} is {}", user_input, next_day);
     Ok(())
 }
-
 ```
+{}
 
 In this example:
 
