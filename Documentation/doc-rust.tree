@@ -23,8 +23,13 @@
             <toc-element topic="Data-Types-Memory-Consumption.md"/>
             <toc-element topic="Overfow-Handling.md"/>
         </toc-element>
-        <toc-element topic="Macros-Basic.md"/>
-        <toc-element topic="Immutability.md"/>
+        <toc-element topic="Macros-Basic.md">
+            <toc-element topic="Repetition-Pattern.md"/>
+        </toc-element>
+        <toc-element topic="Immutability.md">
+            <toc-element topic="Constants.md"/>
+            <toc-element topic="Shadowing.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Control-Structures.md">
         <toc-element topic="Decision-Making.md"/>

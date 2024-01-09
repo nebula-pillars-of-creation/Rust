@@ -1,5 +1,7 @@
 # Data Types Memory Consumption
 
+<show-structure for="chapter" depth="3"/>
+
 ## Scalar Types
 
 ### Integer Types

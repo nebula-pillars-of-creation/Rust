@@ -40,3 +40,18 @@ cargo build
 | **Commands**               | `rustc file.rs` to compile.                    | `cargo build` to build, `cargo run` to run, etc.               |
 | **Tooling**                | Just a compiler.                               | Integrated with a vast tooling ecosystem for Rust development. |
 | **Community Adoption**     | Less commonly used for development.            | Widely adopted for Rust development.                           |
+
+
+## When to use which?
+
+>If you're just starting out with Rust, you should use Cargo. It's the standard way to build Rust projects and is
+>recommended for most use cases. It's also the best way to manage dependencies.
+>
+{style="tip"}
+
+- If you're writing a small, single-file program, you can use `rustc` directly. This is useful for small scripts or
+programs that don't need to be built into a binary. For example, if you're writing a program that will be run on a
+server, you can use rustc to compile it on the server itself. This is useful for small programs that don't need to be
+built into a binary.
+- If you're writing a library, you should use `Cargo`. It's the standard way to build Rust libraries and is recommended for
+most use cases. It's also the best way to manage dependencies.
