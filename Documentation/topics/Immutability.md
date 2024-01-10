@@ -1,7 +1,7 @@
 # Immutability
 <show-structure for="chapter" depth="3"/>
 
-## Introduction
+## Overview
 
 In Rust, one of the core principles is that variables are immutable by default. This feature is fundamental to Rust's
 aim of ensuring safe concurrency and preventing various common programming errors. In this chapter, we'll explore what

@@ -1,3 +1,1 @@
 # Control Structures
-
-Start typing here...
