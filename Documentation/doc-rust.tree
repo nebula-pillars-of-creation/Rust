@@ -41,9 +41,9 @@
         <toc-element topic="Result-And-Options-Types.md"/>
     </toc-element>
     <toc-element topic="Ownership-And-Borrowing.md">
-        <toc-element topic="Memory-Safety.md"/>
-        <toc-element topic="Borrowing-Rules.md"/>
         <toc-element topic="Ownership-System.md"/>
+        <toc-element topic="Borrowing-Rules.md"/>
+        <toc-element topic="Memory-Safety.md"/>
     </toc-element>
     <toc-element topic="Data-Structures.md">
         <toc-element topic="Common-Collections.md"/>
