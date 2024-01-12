@@ -6,4 +6,8 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="6b0e0078">
+        <description>Created after removal of "Result And Options Types" from Rust</description>
+        <accepts>Result-And-Options-Types.html</accepts>
+    </rule>
 </rules>

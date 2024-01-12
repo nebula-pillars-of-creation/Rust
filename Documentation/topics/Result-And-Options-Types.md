@@ -1,3 +1,0 @@
-# Result And Options Types
-
-Start typing here...
